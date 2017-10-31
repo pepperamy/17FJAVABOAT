@@ -9,6 +9,10 @@ import javax.swing.*;
 import test.data;
 
   
+
+//test
+//test
+
     class data extends JFrame{
     	public data(String dat) {
     		super("data");
